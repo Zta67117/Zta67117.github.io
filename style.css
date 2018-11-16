@@ -1,0 +1,40 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-image: url(sport-wallpaper-logo-games-olympic-wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    
+}
+
+.title{
+    color: black;
+    margin-left: 20px;
+}
+
+.nav{
+    color: black;
+    float: right;
+    margin-left: 70%;
+    margin-right: 10%;
+    position: absolute;
+
+}
+
+.nav li{
+    display: inline;
+}
+
+.table{
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 600px;
+}
+
+.paragraph{
+    margin-top: 10%;
+}
